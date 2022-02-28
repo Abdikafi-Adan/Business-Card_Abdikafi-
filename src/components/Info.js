@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function Info(){
     return (
-        <main>
+       
         <div className="info">
         
             <div className="info__image"> 
@@ -31,8 +31,7 @@ s            </div>
             </div>
             
         </div>
-        
-        
-        </main>
     )
+        
+        
 }
