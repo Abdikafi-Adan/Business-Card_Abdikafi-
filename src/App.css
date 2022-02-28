@@ -48,6 +48,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin: 1rem;
 }
 
 .info__titel h1 {
@@ -146,7 +147,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin: 1rem 1rem 0.2rem;
+  margin: 1rem;
 }
 
 .interests__titel {
@@ -161,11 +162,12 @@ body {
 }
 
 .interests__buttons button {
-  background-color: #e3e1e9;
+  background-color: #FFFFFF;
   font-weight: 500;
   margin: 2px;
   padding: 3px;
   font-size: 15px;
+  cursor: pointer;
 }
 
 
