@@ -30,7 +30,7 @@ body {
   position: relative;
   border-radius: 15px;
   cursor: pointer;
-  background-image: url("/Users/abdikafi/my-first-app/src/image/Abdiakfi_Adan.JPG");
+  background-image: url("./image/Abdiakfi_Adan.JPG");
   background-repeat: no-repeat;
   background-size: cover;
 
