@@ -7,7 +7,7 @@ export default function Info(){
         <div className="info">
         
             <div className="info__image"> 
-s            </div>
+            </div>
              <div className="info__titel">
                 <h1>
                     Abdiakfi Adan
