@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 # Live Website at https://abdikafi-adan.netlify.app/
+#### CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to open a new tab :)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
